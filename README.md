@@ -6,6 +6,6 @@ This project demonstrates a real-time search engine with [Meteor.js](http://mete
 # Install
 1. Install [Meteor.js](https://www.meteor.com/install)
 2. Install [Elastic](https://www.elastic.co/downloads/elasticsearch)
-3. Run elastic
+3. Run Elastic
 4. Clone this repository
 5. run the `meteor` command in the repository directory
